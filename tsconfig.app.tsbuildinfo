@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/lease.ts","./src/main.tsx","./src/theme.ts","./src/vite-env.d.ts","./src/components/inputscard.tsx","./src/components/numberfield.tsx","./src/components/resultscard.tsx","./src/components/sensitivitycard.tsx","./src/components/verdictpanel.tsx"],"version":"6.0.3"}
